@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbduShakoor
 - 👀 I’m interested in Andorid Development, Flutter and Python.
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning more about Python.
 
 
 <!---
